@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/super-chess/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/super-chess/static/js/main.00ece02d.chunk.js",
+    "main.js.map": "/super-chess/static/js/main.00ece02d.chunk.js.map",
+    "runtime-main.js": "/super-chess/static/js/runtime-main.9506e2ec.js",
+    "runtime-main.js.map": "/super-chess/static/js/runtime-main.9506e2ec.js.map",
+    "static/js/2.25fbcd76.chunk.js": "/super-chess/static/js/2.25fbcd76.chunk.js",
+    "static/js/2.25fbcd76.chunk.js.map": "/super-chess/static/js/2.25fbcd76.chunk.js.map",
+    "static/js/3.df24b4df.chunk.js": "/super-chess/static/js/3.df24b4df.chunk.js",
+    "static/js/3.df24b4df.chunk.js.map": "/super-chess/static/js/3.df24b4df.chunk.js.map",
+    "index.html": "/super-chess/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/super-chess/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.25fbcd76.chunk.js.LICENSE.txt": "/super-chess/static/js/2.25fbcd76.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/super-chess/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9506e2ec.js",
+    "static/js/2.25fbcd76.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.00ece02d.chunk.js"
+  ]
+}
